@@ -1,0 +1,46 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Author     : Jesus
+*/
+/*--------------------------------------------------------------*/
+/*Inicio Archivo Login*/
+.header h3 {
+  text-align: center;
+  margin-left: 1em;
+  margin-top: 0.5em;
+}
+
+.accede {
+  width: 30em;
+  padding: 2em;
+  border-radius: 1em;
+  background-color: white;
+  margin-top: 5em;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+#Blogin {
+  background-color: lightgrey;
+}
+
+.botonLogin {
+  background-color: black;
+  color: white;
+}
+
+.body {
+  padding: 2em;
+}
+
+#BotonRegistrate {
+  background-color: black;
+  color: white;
+}
+
+/*Fin Archivo Login*/
+/*--------------------------------------------------------------*//*# sourceMappingURL=style.css.map */
